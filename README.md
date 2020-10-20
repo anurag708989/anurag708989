@@ -31,7 +31,9 @@
 ---
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=anurag708989&show_icons=true&theme=radical)
-
+<br>
+<br>
+https://github-readme-stats.vercel.app/api/top-langs/?username=anurag708989&theme=dark&hide_langs_below=1
 
 
 
