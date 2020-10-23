@@ -14,10 +14,20 @@
 [<img align="left" alt="anurag | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+![<img align="left" alt="anurag | Tryhackme" width="310px" src="Tryhackme_profile.png" />](Tryhackme)
+
+
+
 
 <br />
+<br />
+<br />
 
-### Languages and Tools:
+
+
+
+
+## Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
@@ -33,6 +43,8 @@
 [<img align="left" alt="python" width="26px" src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" />][webdevplaylist]
 [<img align="left" alt="python" width="26px" src="https://devicon.dev/devicon.git/icons/express/express-original-wordmark.svg" />][webdevplaylist]
 [<img align="left" alt="python" width="26px" src="https://devicon.dev/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" />][webdevplaylist]
+
+
 <br />
 <br />
 
@@ -52,3 +64,4 @@
 [linkedin]: www.linkedin.com/in/anurag-verma-650b771a2
 [webdevplaylist]: https://github.com/anurag708989?tab=repositories
 [cssplaylist]: https://github.com/anurag708989?tab=repositories
+[Tryhackme]: https://tryhackme.com/p/AnuragVerma
