@@ -13,7 +13,8 @@
 [<img align="left" alt="anurag | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="anurag | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-
+<br>
+<br>
 
 [<img align="left" alt="anurag | Instagram" width="262px" src="https://github.com/anurag708989/anurag708989/blob/main/Tryhackme_profile.png" />][tryhackme]
 
