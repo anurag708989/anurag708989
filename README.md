@@ -16,7 +16,7 @@
 <br>
 <br>
 
-[<img align="left" alt="anurag | Instagram" width="282px" src="https://github.com/anurag708989/anurag708989/blob/main/Tryhackme_profile.png" />][tryhackme]
+[<img align="left" alt="anurag | Instagram" width="282px" src="https://github.com/anurag708989/anurag708989/blob/main/Tryhackme_profile.png" />][tryhackme]<a href="https://tryhackme.com/p/AnuragVerma">Tryhackme Profile</a>
 
 
 
