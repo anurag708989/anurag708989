@@ -14,7 +14,7 @@
 [<img align="left" alt="anurag | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
-![<img align="left" alt="anurag | Tryhackme" width="310px" src="Tryhackme_profile.png" />](Tryhackme)
+[<img align="left" alt="anurag | Tryhackme" width="310px" src="https://github.com/anurag708989/anurag708989/blob/main/Tryhackme_profile.png" />][tryhackme]
 
 
 
@@ -64,4 +64,4 @@
 [linkedin]: www.linkedin.com/in/anurag-verma-650b771a2
 [webdevplaylist]: https://github.com/anurag708989?tab=repositories
 [cssplaylist]: https://github.com/anurag708989?tab=repositories
-[Tryhackme]: https://tryhackme.com/p/AnuragVerma
+[tryhackme]: https://tryhackme.com/p/AnuragVerma
