@@ -51,10 +51,10 @@
 
 ---
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=anurag70898&show_icons=true&theme=radical)
+![Github stats](https://github-readme-stats.vercel.app/api?username=anurag708989&show_icons=true&theme=radical)
 <br>
 <br>
-![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anurag70898&theme=dark&hide_langs_below=1)
+![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anurag708989&theme=dark&hide_langs_below=1)
 
 
 
