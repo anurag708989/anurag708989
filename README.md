@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: There is no place like 127.0.0.1
-- ⚡ Interest: i like to play tabla , playing CTF's
+- ⚡ Interest: i like to play  CTF's
 
 ### Connect with me:
 
